@@ -1,0 +1,3 @@
+S = float(input())
+
+if 
